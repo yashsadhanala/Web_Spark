@@ -9,5 +9,5 @@
 I have created frontend of a basic banking system.
 I have focused more on improving the UI
 
-#### demo link :-[here](https://basic-bank.netlify.app/)
+#### demo link :-[here](https://fervent-lumiere-232c43.netlify.app)
 
